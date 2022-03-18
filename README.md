@@ -1,4 +1,4 @@
-# Machine learning approach for prediction of COVID-19 infection and classification of SARS-CoV-2 variants
+# Machine learning approach for classification of SARS-CoV-2 variants
 
 ### Team Members
 1. [Mike Mwanga](https://github.com/mikemwanga)
