@@ -4,7 +4,7 @@
 1. [Mike Mwanga](https://github.com/mikemwanga)
 2. [Evans Mudibo](https://github.com/mudiboevans)
 3. [Hesbon Omwandho](https://github.com/hesbornomwandho)
-4. [Olaitan I. Awe] (https://github.com/laitanawe)
+4. [Olaitan I. Awe](https://github.com/laitanawe)
 
 ## Background <br>
 The emergence and rapid spread of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as a potentially fatal disease is a major and urgent threat to global health. COVID-19 is transmitted through direct contact with an infected person via sneezing and coughing and has no medically approved vaccine or medication[1], [2]. Upon infection, patients exhibit several significant symptoms including fever, cough, diarrhea which are more severe in adults with chronic illness, and shortness of breath[2]. The existence of asymptomatic cases and lack of diagnostic kits have resulted in delayed or even missed-diagnosis, exposing patients, visitors and healthcare workers to SARS-CoV-2 infection, posing a great challenge to the healthcare and economic sectors.
