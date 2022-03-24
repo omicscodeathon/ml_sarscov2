@@ -5,6 +5,7 @@
 2. [Evans Mudibo](https://github.com/mudiboevans)
 3. [Hesbon Omwandho](https://github.com/hesbornomwandho)
 4. [Olaitan I. Awe](https://github.com/laitanawe)
+5. [Bonface Onyango](https://github.com/bonfaceonyango)
 
 ## Background <br>
 The emergence and rapid spread of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) as a potentially fatal disease is a major and urgent threat to global health. COVID-19 is transmitted through direct contact with an infected person via sneezing and coughing and has no medically approved vaccine or medication[1], [2]. Upon infection, patients exhibit several significant symptoms including fever, cough, diarrhea which are more severe in adults with chronic illness, and shortness of breath[2]. The existence of asymptomatic cases and lack of diagnostic kits have resulted in delayed or even missed-diagnosis, exposing patients, visitors and healthcare workers to SARS-CoV-2 infection, posing a great challenge to the healthcare and economic sectors.
@@ -23,6 +24,10 @@ COVID-19 has brought with its immense burden to the healthcare system globally. 
 ## Methods
 ### Dataset
 Classification of SARS-Cov-2 variants will make use of publicly available representative spike-protein sequence data downloaded from the GISADI and/or GenBank Databases.
+
+### Loading and preprocessing of dataset
+The dataset will be loaded using pandas. The input features will be the DNA sequence, while the output feature will be the class of SARS-CoV-2 variant. One hot encoding will be used to transform the output feature values into a binary matrix. The dataset will be split into training and testing datasets.
+
 
 ### Data processing
 ML algorithms do make use of numerical data and since DNA sequences are in categorical form, some form of conversion using readly available tools will be implemented. In this study, label encoding and k-mer encoding techniques are used to convert the sequence data into numerical form. Seqeuences will first be converted into k-mers (which size will be appropriate, 3? In relation to codons?). This will result to k-mer patterns specific for each variant. The label-encoding process will implement LabelEncoder(), where, each k-mer is assigned a numerical value in a sequential manner. The resulting 2D sequence representation numerical matrix will be binarized using  LabelBinarizer(), figure 1. How do we deal with Ns and ambiguous nucleotides?
