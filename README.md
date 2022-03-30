@@ -36,7 +36,7 @@ ML algorithms do make use of numerical data and since DNA sequences are in categ
 
 
 ### Classification model
-The resulting dataset is fed into a convolutional neural network model (CNN) for feature   extraction. CNN uses convolutionary layers to automatically extract features from a dataset as opposed to other models which require the user to manually extract important features. CNN contains several layers, one input, several hidden and one output layer and each layer contains several neurons and each neuron contains several parameters (link).
+The resulting dataset is fed into a convolutional neural network model (CNN) for feature   extraction. CNN uses convolutionary layers to automatically extract features from a dataset as opposed to other models which require the user to manually extract important features. CNN contains several layers, one input, several hidden and one output layer and each layer contains several neurons and each neuron contains several parameters.
 
 
 
