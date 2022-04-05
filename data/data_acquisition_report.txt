@@ -1,0 +1,52 @@
+This is a summary of the process of accessing and downloading the dataset.
+
+Sequence dataset were downloaded from GISADID database
+
+We aimed to have ~5000 sequences for each of the 5 SARS-CoV-2 variants. Ensure you have regional and variant balance in the dataset.
+
+Sequences were downloaded from the SARS-CoV-2 VIPR database using the following criteria:
+	-	Selected by region (Africa)
+	-	Gene Symbol - S
+	-	Strain name
+	
+	
+	
+Sequences were downloaded from NCBI SARS-CoV-2 database.
+
+The Pango lineage ID was used to differentiate the variants, and specified ones isolated from human origin.
+
+Sequences downloaded based on region
+
+For Alpha variant ID B.1.1.7
+A total of 5547 sequences downloaded
+
+Regions with fewer sequences select all. For those with thousands, preselect regions
+
+The extract the Spike protein gene using blast functions.
+
+
+
+For Beta variant ID B.1.351
+
+Africa  - 1564
+Asia - 134
+Europe - 2803
+Americas - 2161
+Oceanina - 31
+
+
+
+Gamma variant ID P1
+
+
+Asia - 11
+Europe - 442
+Oceania - 6
+Americas - 2934
+
+
+Delta variant ID B.1.617.2
+
+
+
+
