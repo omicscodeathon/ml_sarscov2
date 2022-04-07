@@ -20,7 +20,7 @@ makeblastdb -in sequences.fasta -dbtype nucl -parse_seqids
  
 echo ****Running blast******
 #extract data for mapping spike protein
-blastn -query /home/mmwanga/Blast/wuhan_spike_reference.fasta -db sequences.fasta -out results.out -outfmt 6 -max_target_seqs ${n} -evalue 0.01
+blastn -query wuhan_spike_reference.fasta -db sequences.fasta -out results.out -outfmt 6 -max_hsps 1 -max_target_seqs ${n}
 
 echo ****Extracting coordinates******
 
@@ -28,12 +28,12 @@ echo ****Extracting coordinates******
 awk -F "\t" '{OFS="\t"}{print $2,$9,$10}' results.out > hits.txt
 
 
-#extract a fasta file containing spike protein sequence.
-
-#blastdbcmd -db sequences.fasta -entry MZ380280.1 -range 21563-25384
+python3 extract.py
 
 echo ***Getting the sequences******
-sh /home/mmwanga/Blast/scripts/read.sh > spike_protein.fas
+sh read.sh > spike_protein.fas
 
 
-ech **Completed*****
+echo **Completed**
+
+
