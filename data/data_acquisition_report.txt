@@ -34,18 +34,82 @@ Europe - 2803
 Americas - 2161
 Oceanina - 31
 
-
-
 Gamma variant ID P1
-
-
 Asia - 11
 Europe - 442
 Oceania - 6
 Americas - 2934
 
-
 Delta variant ID B.1.617.2
+
+Blast was used to extract spike protein sequences from the reference genomes.
+Omicron Variant
+B.1.1.529/BA
+
+
+
+Data from GSAID April 8th.
+Ensure regional distribution:
+Filters
+Data between 1/1/2021 - 8/04/2022
+Host - humans
+Complete, high coverage, exclude low coverage, complete collection date
+
+Alpha variant
+					Downloaded
+Africa - 1902		1902
+Asia - 64565		1746
+Europe - 653530 	1252
+N. America - 		1320
+S. America - 		2778
+
+
+Beta variant
+Africa - 5332 - 78 + 50 + 35+17
+Asia	-		- 128+
+Europe - 107+97+1452+813
+N.America - 413+155+1947
+Ocenian - 72
+S. America - 23
+
+Delta variant
+Africa - 401 + 299+1227+168
+Europe - 6 +867+98+
+Asia - 1497
+N.America - 1736 + 99
+S.America - 404 + 891 + 35 + 1121 + 6
+Ocenia - 4+ 336+125+312+239
+
+Gamma Variant
+Africa -1
+Asia - 174
+Europe - 
+N.America
+Oceania
+S.America - 1696 +
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
