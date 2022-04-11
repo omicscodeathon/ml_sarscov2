@@ -26,8 +26,6 @@ COVID-19 has brought with its immense burden to the healthcare system globally. 
 ## Methods
 Below is a workflow of the methods used in this study
 
-![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/workflow.png)
-
 ### Dataset
 Classification of SARS-Cov-2 variants will make use of publicly available representative spike-protein sequence data downloaded from the GISADI and/or GenBank Databases.
 
