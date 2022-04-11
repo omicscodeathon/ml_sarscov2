@@ -37,7 +37,7 @@ Classification of SARS-Cov-2 variants will make use of publicly available repres
 ### Loading and preprocessing of dataset
 The dataset will be loaded using pandas. The input features will be the DNA sequence, while the output feature will be the class of SARS-CoV-2 variant. One hot encoding will be used to transform the output feature values into a binary matrix. The dataset will be split into training and testing datasets.
 
-![one_hot](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/Hot_encoding.png)
+![one_hot](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/one_hot_encoder.png)
 
 ### Data processing
 ML algorithms do make use of numerical data and since DNA sequences are in categorical form, some form of conversion using readly available tools will be implemented. In this study, label encoding and k-mer encoding techniques are used to convert the sequence data into numerical form. Seqeuences will first be converted into k-mers (which size will be appropriate, 3? In relation to codons?). This will result to k-mer patterns specific for each variant. The label-encoding process will implement LabelEncoder(), where, each k-mer is assigned a numerical value in a sequential manner. The resulting 2D sequence representation numerical matrix will be binarized using  LabelBinarizer()
