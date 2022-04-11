@@ -24,7 +24,9 @@ To classify SARS-CoV-2 variants using genomic sequence data and machine learning
 COVID-19 has brought with its immense burden to the healthcare system globally. Currently, vaccination is the only available control measure for control and spread of COVID-19. Accurate classification will enable effective monitoring and tracking of SARS-CoV-2 variants and improve in control and management of the pandemic.
 
 ## Methods
-Below is a workflow of the methods used in this study
+Below is a workflow of the methods used in this study \
+
+![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/workflow.png)
 
 ### Dataset
 Classification of SARS-Cov-2 variants will make use of publicly available representative spike-protein sequence data downloaded from the GISADI and/or GenBank Databases.
