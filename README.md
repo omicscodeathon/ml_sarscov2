@@ -77,4 +77,5 @@ The resulting dataset is fed into a convolutional neural network model (CNN) for
 [6]	G. S. Randhawa, M. P. M. Soltysiak, H. el Roz, C. P. E. de Souza, K. A. Hill, and L. Kari, “Machine learning using intrinsic genomic signatures for rapid classification of novel pathogens: COVID-19 case study,” PLoS ONE, vol. 15, no. 4, Apr. 2020, doi: 10.1371/journal.pone.0232391.
 
 [7]	Z. Bzhalava, A. Tampuu, P. Bała, R. Vicente, and J. Dillner, “Machine Learning for detection of viral sequences in human metagenomic datasets,” BMC Bioinformatics, vol. 19, no. 1, Sep. 2018, doi: 10.1186/s12859-018-2340-x.
+
 [8] C.M. Dasari,R. Bhukya ,"Explainable deep neural networks for novel viral genome prediction", vol. 52.2021,doi: 10.1007/s10489-021-02572-3
