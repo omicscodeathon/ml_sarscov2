@@ -1,6 +1,6 @@
-# Machine learning approach for classification of SARS-CoV-2 variants
+# **Application of deep learning approach to classify SARS-CoV-2 variants**
 
-### Team Members
+## Team Members
 1. [Mike Mwanga](https://github.com/mikemwanga)
 2. [Evans Mudibo](https://github.com/mudiboevans)
 3. [Hesbon Omwandho](https://github.com/hesbornomwandho)
@@ -41,7 +41,7 @@ ML algorithms do make use of numerical data and since DNA sequences are in categ
 ### Classification model
 The resulting dataset is fed into a CNN model for feature   extraction and classification. CNN uses convolutionary layers to automatically extract features from a dataset as opposed to other models which require the user to manually extract important features. CNN contains several layers, one input, several hidden and one output layer and each layer contains several neurons and each neuron contains several parameters.
 
-
+![cnn_architecture](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/cnn_architecture.png)
 
 
 ## References <br>
