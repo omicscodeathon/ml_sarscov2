@@ -39,7 +39,9 @@ Python libraries will be used in data processing and exploratory anaysis before 
 ML algorithms do make use of numerical data and since DNA sequences are in categorical form, some form of conversion using readly available tools will be implemented. In this study, one-hot encoding is used to convert the k-merized sequence data into numerical form.
 
 ### Classification model
-The resulting dataset is fed into a CNN model for feature   extraction and classification. CNN uses convolutionary layers to automatically extract features from a dataset as opposed to other models which require the user to manually extract important features. CNN contains several layers, one input, several hidden and one output layer and each layer contains several neurons and each neuron contains several parameters.
+The resulting dataset is fed into a CNN model for feature   extraction and classification. CNN uses convolutionary layers to automatically extract features from a dataset as opposed to other models which require the user to manually extract important features. CNN contains several layers, one input, several hidden and one output layer and each layer contains several neurons and each neuron contains several parameters. 
+
+Architecture of the proposed CNN machine learning model.
 
 ![cnn_architecture](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/cnn_architecture.png)
 
