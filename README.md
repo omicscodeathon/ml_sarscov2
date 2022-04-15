@@ -14,7 +14,7 @@ Currently, High-throughput sequencing methods have been deployed to identify and
 Robust techniques such as machine learning (ML) have shown potential for diagnosing, containing and therapeutic monitoring of many diseases. ML based tools can identify and extract the important sequence features for sequence classification in a computationally efficient manner. Such, have been successfully used previously in solving sequence classification problems and some have been applied in identification and classification of SARS-CoV-2. Accurate classification will eventually reduce the huge burden on the limited health system while providing efficient and timely monitoring of transmission and spread patters of SARS-CoV-2.In this work we intend to employ Convolutional Neural Network machine learning architecture on publicly genomics dataset to classify SARS-CoV-2 variants. CNN models are an advancement of machine learning which are technically advanced due to their automated feature extraction.These methods produce excellent results using the concepts of Natural Language Processing(NLP). CNN has been used extensively for DNA classification,protein structure prediction and specifically viral classification.
 
 ## Aims and Objectives <br>
-To develop a CNN machine learning model that accurately classifies SARS-CoV-2 variants
+To develop a deep learnng  model that accurately classifies SARS-CoV-2 variants
 
 ## Significance of Study <br>
 COVID-19 has brought with its immense burden to the healthcare system globally. Currently, vaccination is the only available control measure for control and spread of COVID-19. Accurate classification will enable effective monitoring and tracking of SARS-CoV-2 variants and improve current control and management of the pandemic.
