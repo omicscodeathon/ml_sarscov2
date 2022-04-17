@@ -47,6 +47,10 @@ Architecture of the proposed CNN machine learning model.
 ### Results
 ![Screenshot 2022-04-17 at 13 27 13](https://user-images.githubusercontent.com/72735085/163710614-899d03d1-8e3c-4dbe-bfd2-5892b355948a.png)
 
+### Confusion Matrix
+![Screenshot 2022-04-17 at 13 27 45](https://user-images.githubusercontent.com/72735085/163710679-98fc2285-1168-45a5-ad1d-129c9ec3f9a6.png)
+
+
 
 ## References <br>
 [1]	H. A. Rothan and S. N. Byrareddy, “The epidemiology and pathogenesis of coronavirus disease (COVID-19) outbreak,” Journal of Autoimmunity, vol. 109. 2020. doi: 10.1016/j.jaut.2020.102433.
