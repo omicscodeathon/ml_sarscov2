@@ -12,7 +12,13 @@
 #SBATCH -e job.%j.err
 #SBATCH --mail-type=ALL
 
-
+ali	
 module load mafft/7.475 
 
 mafft --auto --reorder --anysymbol sequence.fasta > sequences.aln.fas
+
+
+rm sequence.fasta
+mv sequences.aln.fas sequence.fasta
+
+sbatch /home/mmwanga/ML/Blast/scripts/blast_run.sh
