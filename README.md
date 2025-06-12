@@ -3,7 +3,7 @@
 ## Team Members
 1. [Mike Mwanga](https://github.com/mikemwanga)
 2. [Evans Mudibo](https://github.com/mudiboevans)
-3. [Charles Ssemuyiga] (https://github.com/SsemuyigaMHC)
+3. [SsemuyigaMHC](https://github.com/SsemuyigaMHC)
 4. [Hesbon Omwandho](https://github.com/hesbornomwandho)
 5. [Olaitan I. Awe](https://github.com/laitanawe)
 6. [Bonface Onyango](https://github.com/bonfaceonyango)
