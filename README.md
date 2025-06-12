@@ -3,9 +3,10 @@
 ## Team Members
 1. [Mike Mwanga](https://github.com/mikemwanga)
 2. [Evans Mudibo](https://github.com/mudiboevans)
-3. [Hesbon Omwandho](https://github.com/hesbornomwandho)
-4. [Olaitan I. Awe](https://github.com/laitanawe)
-5. [Bonface Onyango](https://github.com/bonfaceonyango)
+3. [Charles Ssemuyiga] (https://github.com/SsemuyigaMHC)
+4. [Hesbon Omwandho](https://github.com/hesbornomwandho)
+5. [Olaitan I. Awe](https://github.com/laitanawe)
+6. [Bonface Onyango](https://github.com/bonfaceonyango)
 
 ## Background <br>
 The emergence and rapid spread of coronavirus disease 2019 (COVID-19) caused by severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2)is a major and urgent threat to global health. Upon infection, patients exhibit several significant symptoms including fever, cough, diarrhea which are more severe in adults with chronic illness, and shortness of breath[1].
@@ -45,11 +46,10 @@ Architecture of the proposed CNN machine learning model.
 ![cnn_architecture](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/cnn_architecture.png)
 
 ### Results
-![Screenshot 2022-04-17 at 13 27 13](https://user-images.githubusercontent.com/72735085/163710614-899d03d1-8e3c-4dbe-bfd2-5892b355948a.png)
+![Screenshot 2022-04-17 at 13 27 13]
 
 ### Confusion Matrix
-![Screenshot 2022-04-17 at 13 27 45](https://user-images.githubusercontent.com/72735085/163710679-98fc2285-1168-45a5-ad1d-129c9ec3f9a6.png)
-
+![Screenshot 2022-04-17 at 13 27 45] (https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/confusion_matrix_grid.png)
 
 
 ## References <br>
