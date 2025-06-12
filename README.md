@@ -45,11 +45,7 @@ Architecture of the proposed CNN machine learning model.
 
 ![cnn_architecture](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/cnn_architecture.png)
 
-### Results
-![Screenshot 2022-04-17 at 13 27 13]
-
-### Confusion Matrix
-![Screenshot 2022-04-17 at 13 27 45] (https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/confusion_matrix_grid.png)
+https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/confusion_matrix_grid.png?raw=true
 
 
 ## References <br>
