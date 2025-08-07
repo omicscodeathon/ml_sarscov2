@@ -50,6 +50,7 @@ confusion matrix
 
 Results 
 ![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/loss_accuracy_combined_dual_yaxes.png)
+![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/saliency_grid.png)
 ![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/roc_curve_grid.png)
 
 
