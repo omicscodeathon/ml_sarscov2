@@ -45,12 +45,14 @@ Architecture of the proposed CNN machine learning model.
 
 ![cnn_architecture](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/cnn_architecture.png)
 
-confusion matrix
+Results.
+Confusion matrices.
 ![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/confusion_matrix_grid.png) 
-
-Results 
+Training and Test Accuracy and Loss.
 ![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/loss_accuracy_combined_dual_yaxes.png)
+Saliency Maps.
 ![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/saliency_grid.png)
+ROC_Curves.
 ![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/roc_curve_grid.png)
 
 
