@@ -49,7 +49,7 @@ confusion matrix
 ![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/confusion_matrix_grid.png) 
 
 Results 
-![image](https://github.com/user-attachments/assets/431d9f0a-7941-4cce-b854-ef572e49ec4a)
+![image](https://github.com/omicscodeathon/ml_sarscov2/blob/main/figures/roc_curve_grid.png)
 
 
 ## References <br>
